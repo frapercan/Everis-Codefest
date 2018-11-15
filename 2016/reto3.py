@@ -17,8 +17,6 @@ def multiplicar3(num):
 lista_numeros = set()
 
 def descomponer(i,maximo):
-#    print(i)
-
     if i in lista_numeros:
         return False
     if maximo < i :
@@ -29,8 +27,6 @@ def descomponer(i,maximo):
         return descomponer(sumar5(i),maximo)
     if maximo-i < 5:
         return False
-        
-        
     return descomponer(sumar5(i),maximo),descomponer(multiplicar3(i),maximo)
 
 maximo = 7000

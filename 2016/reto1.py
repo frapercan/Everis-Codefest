@@ -13,7 +13,6 @@ Created on Wed Nov 14 12:53:08 2018
 posiciones_medicamentos = [1, 3, 4, 8, 8, 10, 10, 14, 15, 16, 20, 
 21, 22, 22, 23, 24, 24, 27, 31, 39]
 
-
 distancia_optima = float('inf')
 
 for posicion_caja in range(max(posiciones_medicamentos)):
