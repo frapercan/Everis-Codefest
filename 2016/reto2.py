@@ -29,7 +29,7 @@ for hora in range(24):
 
     
         
-print('la segundoolucion del reto 2 esegundo: {}'.format(str(acumuladorW*365)))
+print('la solucion del reto 2 es: {}'.format(str(acumuladorW*365)))
         
         
         
