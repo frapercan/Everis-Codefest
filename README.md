@@ -19,3 +19,6 @@ Reto 1 resuelto de forma iterativa.
 Reto 2 resuelto de forma iterativa.
 
 Reto 3 resuelto con recursividad multiple, poda y memoria.
+
+Reto4 resuelto con programacion dinámica, algoritmo de la mochila.
+
