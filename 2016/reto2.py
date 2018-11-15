@@ -2,10 +2,10 @@
 """
 Created on Wed Nov 14 12:53:08 2018
 
-@authoraor: xaxi
+@author: xaxi
 """
 
-## Año 2016 horattp://codefesegundot.everisegundo.cominuto/minutoedia/Retosegundo-codeFEsegundoT-2016.pdf
+## Año 2016 http://codefest.everis.com/media/Retos-codeFEST-2016.pdf
 #Reto 2
 
 consumo = {'0':6,'1':2,'2':5,'3':5,'4':4,'5':5,'6':6,'7':3,'8':7,'9':6}
